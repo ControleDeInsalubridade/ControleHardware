@@ -21,6 +21,6 @@ Para o desenvolvimento do módulo de verificação de presença será utilizado 
 
 ## Arquivos
 
-gravacao.ino: código responsável pela gravação da ID do Funcionário na TAG através do RFID.
-leitura.ino: código responsável pela identificação da TAG do funcionário através do RFID quando o mesmo estiver em atividade.
-ReadNUID_NodeMCU.ino: código de teste do funcionamento do RFID.
+* gravacao.ino: código responsável pela gravação da ID do Funcionário na TAG através do RFID.
+* leitura.ino: código responsável pela identificação da TAG do funcionário através do RFID quando o mesmo estiver em atividade.
+* ReadNUID_NodeMCU.ino: código de teste do funcionamento do RFID.
